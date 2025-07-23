@@ -1,3 +1,7 @@
-baseURL: https://example.org/
+baseURL: https://ndrskln.de/
 languageCode: en-us
-title: My New Hugo Site
+title: ndrskln.de
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
