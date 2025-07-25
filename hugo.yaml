@@ -5,3 +5,24 @@ title: ndrskln.de
 module:
   imports:
     - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: Projects
+      pageRef: /projects
+      weight: 1
+
+    - name: How To
+      pageRef: /how-to
+      weight: 2
+
+    - name: Search
+      weight: 3
+      params:
+        type: search
+
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/ndrskln"
+      params:
+        icon: github
