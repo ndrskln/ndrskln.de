@@ -26,3 +26,12 @@ menu:
       url: "https://github.com/ndrskln"
       params:
         icon: github
+
+params:
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: content
+      tokenize: full
