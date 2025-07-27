@@ -28,6 +28,10 @@ menu:
         icon: github
 
 params:
+  theme:
+    default: system
+    displayToggle: true
+
   search:
     enable: true
     type: flexsearch
