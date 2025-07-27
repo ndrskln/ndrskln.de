@@ -39,6 +39,12 @@ params:
   page:
     width: normal
 
+  footer:
+    enable: true
+    displayCopyright: false
+    displayPoweredBy: false
+    width: normal
+
   search:
     enable: true
     type: flexsearch
