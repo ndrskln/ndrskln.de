@@ -32,6 +32,9 @@ params:
     default: system
     displayToggle: true
 
+  page:
+    width: normal
+
   search:
     enable: true
     type: flexsearch
