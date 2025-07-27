@@ -32,6 +32,10 @@ params:
     default: system
     displayToggle: true
 
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
   page:
     width: normal
 
